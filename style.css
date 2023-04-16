@@ -1,0 +1,57 @@
+.sec3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lvgame{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.table{
+    text-align: center;
+}
+.td_dino{
+    align-items: center;
+}
+.td_treas{
+    align-items: center;
+}
+.dino{
+    margin-top: 100px;
+    width: 500px;
+    height: 300px;
+    background-color: #f0f0ec;
+    border-radius: 25px 25px 25px 35%;
+
+}
+.dino_txt{
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 15%;
+}
+h2{
+    margin-top: 20px;
+}
+.treas{
+    height: 250px;
+    width: 250px;
+    background-color: #f0f0ec;
+    border-radius: 50%;
+}
+.img_treas{
+    margin-top: 12px;
+}
+
+.sleep{
+    background-color: #f0f0ec;
+    height: 250px;
+    width: 250px;
+    border-radius: 50px;
+}
+.img_dino{
+    width: 350px;
+    height: 217px;
+    margin-top: 44px;
+}
